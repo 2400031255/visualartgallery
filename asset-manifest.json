@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visualartgallery/static/css/main.98ab133f.css",
+    "main.js": "/visualartgallery/static/js/main.9c146eab.js",
+    "static/js/453.1ebd1f47.chunk.js": "/visualartgallery/static/js/453.1ebd1f47.chunk.js",
+    "index.html": "/visualartgallery/index.html",
+    "main.98ab133f.css.map": "/visualartgallery/static/css/main.98ab133f.css.map",
+    "main.9c146eab.js.map": "/visualartgallery/static/js/main.9c146eab.js.map",
+    "453.1ebd1f47.chunk.js.map": "/visualartgallery/static/js/453.1ebd1f47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ab133f.css",
+    "static/js/main.9c146eab.js"
+  ]
+}
