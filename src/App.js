@@ -12,7 +12,7 @@ import VirtualTour from './components/VirtualTour';
 import { artworksData } from './data/artworks';
 
 function AppShell() {
-  const { currentUser, login } = useAuth();
+  const { currentUser } = useAuth();
   const [currentView, setCurrentView] = useState('gallery');
   const [artworks, setArtworks]       = useState(artworksData);
   const [cart, setCart]               = useState([]);

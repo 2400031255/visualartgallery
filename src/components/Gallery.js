@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 
-const FALLBACK = 'https://via.placeholder.com/600x800/1a1a1a/c9a84c?text=Artwork';
 const ArtImage = ({ src, alt, className, style }) => {
   const [err, setErr] = useState(false);
   return err

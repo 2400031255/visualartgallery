@@ -4,7 +4,6 @@ import { useAuth } from '../auth/useAuth';
 
 const NavContent = ({ currentUser, switchRole, setCurrentView, currentView, cart, onCartClick, onNav }) => {
   const { logout } = useAuth();
-  const isPro = ['artist', 'curator', 'admin'].includes(currentUser.role);
 
   return (
     <>
